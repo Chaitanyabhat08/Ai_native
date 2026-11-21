@@ -1,0 +1,4 @@
+/node_modules
+/.sales-inbox/
+.env*
+!.env.example
